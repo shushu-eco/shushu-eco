@@ -85,9 +85,9 @@ Free and open source. No accounts, nothing uploaded. Made in Spain.
 | **⌂ Stays on your computer** | Nothing is uploaded. No account, no analytics. |
 
 <div align="center">
-<img src="assets/marks.png" alt="The marks of a recording, with Copy list and Markers for Resolve">
+<img src="assets/marks.gif" width="800" alt="After the stream: a recording's marks, Copy list, and Markers for Resolve">
 <br><br>
-<img src="assets/rewind.png" alt="The rewind keeps the last minutes while you watch">
+<img src="assets/rewind.gif" width="800" alt="The rewind keeps the last minutes; Save last makes an mp4 of the minute before">
 </div>
 
 **Skins for the panel:** Classic, Midnight, Sakura and Halloween, each with a slow moving background of its own. All included.
