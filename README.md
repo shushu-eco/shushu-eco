@@ -71,7 +71,7 @@ Paid once, no subscriptions, no accounts, nothing uploaded. Made in Spain.
 <br clear="right">
 
 <div align="center">
-<a href="https://chromewebstore.google.com/detail/link-lite-recorder/jjbnifoddmcjocjdmiaondcimkjmkjaa"><img src="https://raw.githubusercontent.com/shushu-eco/linkturbo-site/main/readme/record.png" alt="The Link Lite panel on a stream's page, recording"></a>
+<a href="https://chromewebstore.google.com/detail/link-lite-recorder/jjbnifoddmcjocjdmiaondcimkjmkjaa"><img src="assets/record.png" alt="The Link Lite panel on a stream's page, recording"></a>
 </div>
 
 <br>
@@ -86,8 +86,8 @@ Paid once, no subscriptions, no accounts, nothing uploaded. Made in Spain.
 
 <table>
 <tr>
-<td width="50%"><img src="https://raw.githubusercontent.com/shushu-eco/linkturbo-site/main/readme/marks.png" alt="The marks of a recording, with Copy list and Markers for Resolve"></td>
-<td width="50%"><img src="https://raw.githubusercontent.com/shushu-eco/linkturbo-site/main/readme/rewind.png" alt="The rewind keeps the last minutes while you watch"></td>
+<td width="50%"><img src="assets/marks.png" alt="The marks of a recording, with Copy list and Markers for Resolve"></td>
+<td width="50%"><img src="assets/rewind.png" alt="The rewind keeps the last minutes while you watch"></td>
 </tr>
 </table>
 
@@ -121,7 +121,7 @@ Try any of them on before you buy. **EUR 0.99 each, paid once.** Classic stays f
 ![Platform](https://img.shields.io/badge/Windows-10_%2F_11-1374a0?style=flat-square&labelColor=0a0a0a)
 
 <div align="center">
-<a href="https://linkturbo.app/turbo"><img src="https://raw.githubusercontent.com/shushu-eco/linkturbo-site/main/readme/turbo.png" alt="Link TURBO: from a live stream to a posted reel, in five steps"></a>
+<a href="https://linkturbo.app/turbo"><img src="assets/turbo.png" alt="Link TURBO: from a live stream to a posted reel, in five steps"></a>
 </div>
 
 <br>
