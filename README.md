@@ -71,7 +71,7 @@ Free and open source. No accounts, nothing uploaded. Made in Spain.
 <br clear="right">
 
 <div align="center">
-<a href="https://chromewebstore.google.com/detail/link-lite-recorder/jjbnifoddmcjocjdmiaondcimkjmkjaa"><img src="assets/record.png" alt="The Link Lite panel on a stream's page, recording"></a>
+<a href="https://chromewebstore.google.com/detail/link-lite-recorder/jjbnifoddmcjocjdmiaondcimkjmkjaa"><img src="assets/demo.gif" width="800" alt="Link Lite on a stream's page: Record, a mark with a note, Stop, and the mp4 that is saved"></a>
 </div>
 
 <br>
