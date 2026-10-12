@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://linkturbo.app"><img src="assets/banner.svg" width="100%" alt="SHU: from a live stream to a clip, on your own computer"></a>
+<a href="https://linkturbo.app"><img src="assets/banner.svg" width="100%" alt="SHU: web alchemy"></a>
 
 <br><br>
 
@@ -12,7 +12,7 @@
 **We build small, honest tools that run on your own computer.**<br>
 Paid once, no subscriptions, no accounts, nothing uploaded. Made in Spain.
 
-`01` [Built with](#01-built-with) &nbsp;`02` [Links](#02-links) &nbsp;`03` [Link Lite](#03-link-lite-recorder) &nbsp;`04` [Link TURBO](#04-link-turbo) &nbsp;`05` [Circula](#05-circula)
+`01` [Built with](#01-built-with) &nbsp;`02` [Links](#02-links) &nbsp;`03` [Link Lite](#03-link-lite-recorder) &nbsp;`04` [Link TURBO](#04-link-turbo)
 
 </div>
 
@@ -44,7 +44,6 @@ Paid once, no subscriptions, no accounts, nothing uploaded. Made in Spain.
 | The guide | [linkturbo.app/how-it-works](https://linkturbo.app/how-it-works) |
 | Buying and the licence key | [linkturbo.app/buy](https://linkturbo.app/buy) |
 | What's new | [linkturbo.app/changelog](https://linkturbo.app/changelog) |
-| Circula | [circula723.vercel.app](https://circula723.vercel.app) |
 | Support | [support@linkturbo.app](mailto:support@linkturbo.app) |
 
 <img src="assets/rain.svg" width="100%" alt="">
@@ -137,29 +136,6 @@ Try any of them on before you buy. **EUR 0.99 each, paid once.** Classic stays f
 | **06 · Night** | Link Night | Records your streams while you sleep and has the moments ranked when you are back. |
 
 > Not released yet. The release date is posted in [Discord](https://discord.gg/N3jdn6WPJd) first.
-
-<img src="assets/rain.svg" width="100%" alt="">
-
-## `05` Circula
-
-**A subscription tracker that warns you before the money leaves.** Log every recurring payment in one place, see your monthly and yearly spend, and get a push notification on any of your devices before each renewal.
-
-![Status](https://img.shields.io/badge/status-live-1374a0?style=flat-square&labelColor=0a0a0a)
-![PWA](https://img.shields.io/badge/installable-PWA-1374a0?style=flat-square&labelColor=0a0a0a&logo=pwa&logoColor=4db4e0)
-![Privacy](https://img.shields.io/badge/GDPR-export_%26_delete_anytime-1374a0?style=flat-square&labelColor=0a0a0a)
-
-| | |
-|---|---|
-| **Dashboard** | Total monthly and annual spend, upcoming renewals, breakdown by category. |
-| **Reminders** | Choose how many days before renewal each alert arrives. |
-| **Every device** | Desktop and mobile, installable on iOS and Android. |
-| **Your data** | Download everything as a file, or delete your account for good, at any time. |
-
-<div align="center">
-
-### [Open Circula →](https://circula723.vercel.app)
-
-</div>
 
 <img src="assets/rain.svg" width="100%" alt="">
 
