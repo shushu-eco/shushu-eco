@@ -104,7 +104,7 @@ Free and open source. No accounts, nothing uploaded. Made in Spain.
 
 **The full program for Windows: from a live stream to a posted reel, on one computer.**
 
-![Status](https://img.shields.io/badge/status-in_development-1374a0?style=flat-square&labelColor=0a0a0a)
+![Status](https://img.shields.io/badge/status-available_now-1374a0?style=flat-square&labelColor=0a0a0a)
 ![Free](https://img.shields.io/badge/free-open_source-1374a0?style=flat-square&labelColor=0a0a0a)
 ![Platform](https://img.shields.io/badge/Windows-10_%2F_11-1374a0?style=flat-square&labelColor=0a0a0a)
 
@@ -123,7 +123,7 @@ Free and open source. No accounts, nothing uploaded. Made in Spain.
 | **05 · Measure** | **Analytics.** See how each clip did: 7 days, 28 days or all time. |
 | **06 · Night** | **Link Night.** Records your streams while you sleep and has the moments ranked when you are back. |
 
-> The code is public in [shushu-eco/link](https://github.com/shushu-eco/link) and runs from there today. An installer is not released yet; [Discord](https://discord.gg/N3jdn6WPJd) says when.
+> Download it for Windows: [Link-Setup.exe](https://github.com/shushu-eco/link/releases/download/installer/Link-Setup.exe) or [Link-Windows.zip](https://github.com/shushu-eco/link/releases/download/installer/Link-Windows.zip). It keeps itself up to date. The code is in [shushu-eco/link](https://github.com/shushu-eco/link).
 
 <img src="assets/rain.svg" width="100%" alt="">
 
