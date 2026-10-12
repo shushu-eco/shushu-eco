@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://linkturbo.app"><img src="assets/banner.svg" width="100%" alt="SHU: web alchemy"></a>
+<a href="https://linkturbo.app"><img src="assets/banner.svg" width="100%" alt="web alchemy"></a>
 
 [![Website](https://img.shields.io/badge/linkturbo.app-061d28?style=for-the-badge&logo=googlechrome&logoColor=4db4e0)](https://linkturbo.app)
 [![Add to Chrome](https://img.shields.io/badge/Add_to_Chrome-1374a0?style=for-the-badge&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/link-lite-recorder/jjbnifoddmcjocjdmiaondcimkjmkjaa)
