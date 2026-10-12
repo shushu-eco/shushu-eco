@@ -4,11 +4,12 @@
 
 [![Website](https://img.shields.io/badge/linkturbo.app-061d28?style=for-the-badge&logo=googlechrome&logoColor=4db4e0)](https://linkturbo.app)
 [![Add to Chrome](https://img.shields.io/badge/Add_to_Chrome-1374a0?style=for-the-badge&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/link-lite-recorder/jjbnifoddmcjocjdmiaondcimkjmkjaa)
+[![The code](https://img.shields.io/badge/The_code-061d28?style=for-the-badge&logo=github&logoColor=4db4e0)](https://github.com/shushu-eco/link)
 [![Discord](https://img.shields.io/badge/Discord-061d28?style=for-the-badge&logo=discord&logoColor=4db4e0)](https://discord.gg/N3jdn6WPJd)
 [![Support](https://img.shields.io/badge/Support-061d28?style=for-the-badge&logo=maildotru&logoColor=4db4e0)](mailto:support@linkturbo.app)
 
 **We build small, honest tools that run on your own computer.**<br>
-Paid once, no subscriptions, no accounts, nothing uploaded. Made in Spain.
+Free and open source. No accounts, nothing uploaded. Made in Spain.
 
 `01` [Built with](#01-built-with) &nbsp;`02` [Links](#02-links) &nbsp;`03` [Link Lite](#03-link-lite-recorder) &nbsp;`04` [Link TURBO](#04-link-turbo)
 
@@ -40,7 +41,8 @@ Paid once, no subscriptions, no accounts, nothing uploaded. Made in Spain.
 | Chrome Web Store | [Link Lite Recorder](https://chromewebstore.google.com/detail/link-lite-recorder/jjbnifoddmcjocjdmiaondcimkjmkjaa) |
 | Discord | [discord.gg/N3jdn6WPJd](https://discord.gg/N3jdn6WPJd) |
 | The guide | [linkturbo.app/how-it-works](https://linkturbo.app/how-it-works) |
-| Buying and the licence key | [linkturbo.app/buy](https://linkturbo.app/buy) |
+| The code | [github.com/shushu-eco/link](https://github.com/shushu-eco/link) |
+| Open source | [linkturbo.app/open-source](https://linkturbo.app/open-source) |
 | What's new | [linkturbo.app/changelog](https://linkturbo.app/changelog) |
 | Support | [support@linkturbo.app](mailto:support@linkturbo.app) |
 
@@ -63,8 +65,8 @@ Paid once, no subscriptions, no accounts, nothing uploaded. Made in Spain.
 **A browser extension for Chrome, Edge and Brave.** It records the Kick or Twitch stream playing in your tab, lets you mark the highlights as they happen, and saves one mp4 to your own computer.
 
 ![Status](https://img.shields.io/badge/status-available_now-1374a0?style=flat-square&labelColor=0a0a0a)
-![Price](https://img.shields.io/badge/price-EUR_1.99_once-1374a0?style=flat-square&labelColor=0a0a0a)
-![Trial](https://img.shields.io/badge/first_3_recordings-free-1374a0?style=flat-square&labelColor=0a0a0a)
+![Free](https://img.shields.io/badge/free-open_source-1374a0?style=flat-square&labelColor=0a0a0a)
+![Licence](https://img.shields.io/badge/licence-GPL--3.0-1374a0?style=flat-square&labelColor=0a0a0a)
 
 <br clear="right">
 
@@ -88,18 +90,7 @@ Paid once, no subscriptions, no accounts, nothing uploaded. Made in Spain.
 <img src="assets/rewind.png" alt="The rewind keeps the last minutes while you watch">
 </div>
 
-<details>
-<summary><b>Skins for the panel</b> &nbsp;·&nbsp; five colour skins with moving backgrounds</summary>
-
-<br>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/shushu-eco/linkturbo-site/main/readme/skins-moving.gif" alt="The five skins, with their backgrounds moving">
-</div>
-
-Try any of them on before you buy. **EUR 0.99 each, paid once.** Classic stays free.
-
-</details>
+**Skins for the panel:** Classic, Midnight, Sakura and Halloween, each with a slow moving background of its own. All included.
 
 <div align="center">
 
@@ -114,7 +105,7 @@ Try any of them on before you buy. **EUR 0.99 each, paid once.** Classic stays f
 **The full program for Windows: from a live stream to a posted reel, on one computer.**
 
 ![Status](https://img.shields.io/badge/status-in_development-1374a0?style=flat-square&labelColor=0a0a0a)
-![Price](https://img.shields.io/badge/price-EUR_7.99_once-1374a0?style=flat-square&labelColor=0a0a0a)
+![Free](https://img.shields.io/badge/free-open_source-1374a0?style=flat-square&labelColor=0a0a0a)
 ![Platform](https://img.shields.io/badge/Windows-10_%2F_11-1374a0?style=flat-square&labelColor=0a0a0a)
 
 <div align="center">
@@ -132,7 +123,7 @@ Try any of them on before you buy. **EUR 0.99 each, paid once.** Classic stays f
 | **05 · Measure** | **Analytics.** See how each clip did: 7 days, 28 days or all time. |
 | **06 · Night** | **Link Night.** Records your streams while you sleep and has the moments ranked when you are back. |
 
-> Not released yet. The release date is posted in [Discord](https://discord.gg/N3jdn6WPJd) first.
+> The code is public in [shushu-eco/link](https://github.com/shushu-eco/link) and runs from there today. An installer is not released yet; [Discord](https://discord.gg/N3jdn6WPJd) says when.
 
 <img src="assets/rain.svg" width="100%" alt="">
 
