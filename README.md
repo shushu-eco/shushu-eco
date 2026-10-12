@@ -2,8 +2,6 @@
 
 <a href="https://linkturbo.app"><img src="assets/banner.svg" width="100%" alt="SHU: web alchemy"></a>
 
-<br><br>
-
 [![Website](https://img.shields.io/badge/linkturbo.app-061d28?style=for-the-badge&logo=googlechrome&logoColor=4db4e0)](https://linkturbo.app)
 [![Add to Chrome](https://img.shields.io/badge/Add_to_Chrome-1374a0?style=for-the-badge&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/link-lite-recorder/jjbnifoddmcjocjdmiaondcimkjmkjaa)
 [![Discord](https://img.shields.io/badge/Discord-061d28?style=for-the-badge&logo=discord&logoColor=4db4e0)](https://discord.gg/N3jdn6WPJd)
@@ -84,12 +82,11 @@ Paid once, no subscriptions, no accounts, nothing uploaded. Made in Spain.
 | **▣ For your editor** | The marks come with the recording: a list to copy, or a marker file for DaVinci Resolve. |
 | **⌂ Stays on your computer** | Nothing is uploaded. No account, no analytics. |
 
-<table>
-<tr>
-<td width="50%"><img src="assets/marks.png" alt="The marks of a recording, with Copy list and Markers for Resolve"></td>
-<td width="50%"><img src="assets/rewind.png" alt="The rewind keeps the last minutes while you watch"></td>
-</tr>
-</table>
+<div align="center">
+<img src="assets/marks.png" alt="The marks of a recording, with Copy list and Markers for Resolve">
+<br><br>
+<img src="assets/rewind.png" alt="The rewind keeps the last minutes while you watch">
+</div>
 
 <details>
 <summary><b>Skins for the panel</b> &nbsp;·&nbsp; five colour skins with moving backgrounds</summary>
@@ -126,14 +123,14 @@ Try any of them on before you buy. **EUR 0.99 each, paid once.** Classic stays f
 
 <br>
 
-| | | |
-|---|---|---|
-| **01 · Record** | Studio | Up to 3 Kick or Twitch streams recorded at once. |
-| **02 · Find** | Moments found for you | Up to 30 ranked moments per recording. |
-| **03 · Edit** | Finished 9:16 clips | Title, hook and captions timed to the voice. |
-| **04 · Post** | YouTube Shorts and Instagram | Only the clips you choose leave your computer. |
-| **05 · Measure** | Analytics | See how each clip did: 7 days, 28 days or all time. |
-| **06 · Night** | Link Night | Records your streams while you sleep and has the moments ranked when you are back. |
+| | |
+|---|---|
+| **01 · Record** | **Studio.** Up to 3 Kick or Twitch streams recorded at once. |
+| **02 · Find** | **Moments found for you.** Up to 30 ranked moments per recording. |
+| **03 · Edit** | **Finished 9:16 clips.** Title, hook and captions timed to the voice. |
+| **04 · Post** | **YouTube Shorts and Instagram.** Only the clips you choose leave your computer. |
+| **05 · Measure** | **Analytics.** See how each clip did: 7 days, 28 days or all time. |
+| **06 · Night** | **Link Night.** Records your streams while you sleep and has the moments ranked when you are back. |
 
 > Not released yet. The release date is posted in [Discord](https://discord.gg/N3jdn6WPJd) first.
 
