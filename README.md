@@ -109,7 +109,7 @@ Free and open source. No accounts, nothing uploaded. Made in Spain.
 ![Platform](https://img.shields.io/badge/Windows-10_%2F_11-1374a0?style=flat-square&labelColor=0a0a0a)
 
 <div align="center">
-<a href="https://linkturbo.app/turbo"><img src="assets/turbo.png" alt="Link TURBO: from a live stream to a posted reel, in five steps"></a>
+<a href="https://linkturbo.app/turbo"><img src="assets/turbo.gif" width="800" alt="Link TURBO: from a live stream to a posted reel, in five steps that light up one after the other"></a>
 </div>
 
 <br>
@@ -122,6 +122,10 @@ Free and open source. No accounts, nothing uploaded. Made in Spain.
 | **04 · Post** | **YouTube Shorts and Instagram.** Only the clips you choose leave your computer. |
 | **05 · Measure** | **Analytics.** See how each clip did: 7 days, 28 days or all time. |
 | **06 · Night** | **Link Night.** Records your streams while you sleep and has the moments ranked when you are back. |
+
+<div align="center">
+<a href="https://linkturbo.app/turbo"><img src="assets/parts.gif" width="800" alt="The parts of Link TURBO that work for you: Analytics with its numbers, Link Night recording through the night, and the Discord remote answering from your phone"></a>
+</div>
 
 > Download it for Windows: [Link-Setup.exe](https://github.com/shushu-eco/link/releases/download/installer/Link-Setup.exe) or [Link-Windows.zip](https://github.com/shushu-eco/link/releases/download/installer/Link-Windows.zip). It keeps itself up to date. The code is in [shushu-eco/link](https://github.com/shushu-eco/link).
 
